@@ -1,0 +1,2 @@
+# CROPGUARD-AI
+Farm AI app
